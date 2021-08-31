@@ -70,12 +70,14 @@
     padding-left: 31px;
     width: 223px;
     height: 50px;
+    font-size: 16px;
 
     transition: border-radius 0.3s;
 
     @include onTablet {
       width: 395px;
       height: 70px;
+      font-size: 18px;
       margin-right: 10px;
     }
 
